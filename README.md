@@ -1,3 +1,86 @@
+# React Native Multiplatform App  
+
+![App Screenshot](https://portfolio-v2-ivory-rho.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F7JFdKVrq%2Faora2.png&w=1920&q=75)  
+
+## 🌟 О проекте  
+
+Кроссплатформенное мобильное приложение, созданное с помощью **React Native** и **Expo**, обеспечивающее одинаково плавный пользовательский опыт на iOS и Android. Приложение включает современные функции взаимодействия с системой и пользователем.  
+
+## 🛠 Технологический стек  
+
+- **Framework**: React Native  
+- **Development**: Expo  
+- **Navigation**: Expo Router  
+- **Backend Integration**: Appwrite  
+- **Styling**: Tailwind CSS (NativeWind)  
+- **Language**: TypeScript  
+- **Core**: React  
+
+## 🔥 Ключевые особенности  
+
+- 📁 Системный выбор и обработка файлов  
+- 📱 Кастомизация строки состояния  
+- 👆 Распознавание сложных жестов  
+- 🎨 Адаптивный интерфейс под все устройства  
+- ✨ Плавные анимации переходов  
+- 🔄 Синхронизация с бэкендом (Appwrite)  
+- 📱 Нативный look & feel на обеих платформах  
+
+## 🚀 Быстрый старт  
+
+1. Клонируйте репозиторий:  
+```bash
+git clone https://github.com/VladimirMedv/react-native-app.git
+cd react-native-app
+```
+
+2. Установите зависимости:  
+```bash
+npm install
+# или
+yarn install
+```
+
+3. Настройте окружение:  
+```bash
+cp .env.example .env
+# заполните необходимые ключи
+```
+
+4. Запустите приложение:  
+```bash
+expo start
+```
+
+5. Откройте через:  
+- 📱 **Expo Go** на устройстве  
+- 🤖 Android эмулятор  
+- 🍏 iOS симулятор  
+
+## 📦 Основные зависимости  
+
+- `expo-status-bar` - управление статус-баром  
+- `react-native-gesture-handler` - обработка жестов  
+- `react-native-reanimated` - продвинутые анимации  
+- `nativewind` - Tailwind для React Native  
+- `expo-file-system` - работа с файлами  
+- `appwrite` - бэкенд интеграция  
+
+## 🏆 Особенности разработки  
+
+✔️ Полная поддержка TypeScript  
+✔️ Строгая архитектура компонентов  
+✔️ Оптимизированная сборка для production  
+✔️ Поддержка .env переменных  
+✔️ Интеграция с Appwrite SDK  
+
+## 🔗 Ссылки  
+
+- [GitHub репозиторий](https://github.com/VladimirMedv/react-native-app.git)  
+- [Expo документация](https://docs.expo.dev/)  
+- [NativeWind документация](https://nativewind.dev)  
+- [Appwrite SDK](https://appwrite.io/docs)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
